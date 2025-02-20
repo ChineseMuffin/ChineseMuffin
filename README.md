@@ -1,4 +1,8 @@
-## Hi there 👋
+## ChineseMuffinです
+
+## 作成したもの
+- [真ん中バースデー計算機](https://chinesemuffin.github.io/MannakaBirthday/)
+- [キリのいい振替](https://chinesemuffin.github.io/transfer/)
 
 <!--
 **ChineseMuffin/ChineseMuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
